@@ -1,4 +1,0 @@
-# Problem 1: Dictionaries
-
-> Write a function most_prolific that takes a dict formatted like Beatles_Discography example above and returns the year in which the most albums were released. If you call the function on the Beatles_Discography it should return 1964, which saw more releases than any other year in the discography.
-If there are multiple years with the same maximum number of releases, the function should return a list of years.
