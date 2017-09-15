@@ -7,6 +7,4 @@ def create_cast_list(filename):
     return cast_list
 
 
-
-
-print(create_cast_list('/Chirantan/flying_circus.txt'))
+print(create_cast_list('../flying_circus.txt'))
