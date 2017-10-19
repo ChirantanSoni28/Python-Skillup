@@ -6,4 +6,4 @@
 ### [Problem 4: password_generator](https://github.com/ChirantanSoni28/Python-Skillup/tree/master/Problem%204)
 ### [Problem 5: If-else condition](https://github.com/ChirantanSoni28/Python-Skillup/tree/master/problem%205)
 ### [Problem 6: Calculate BMI](https://github.com/ChirantanSoni28/Python-Skillup/tree/master/Problem%206)
-### [Problem 7: lambda function](https://github.com/ChirantanSoni28/Python-Skillup/blob/master/Problem 7)
+### [Problem 7: lambd Function](https://github.com/ChirantanSoni28/Python-Skillup/blob/master/Problem 7)
